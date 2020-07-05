@@ -10,3 +10,5 @@ Line added and altered to test diff feature
 11 May update
 
 This text was added by galgopro and added via a pull request.
+
+Cool bananas! Line added to test pull origin master on galgopro account
