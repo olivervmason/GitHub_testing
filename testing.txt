@@ -8,3 +8,5 @@ This text was added on GitHub and pulled down to the local repository...
 Line added and altered to test diff feature
 
 11 May update
+
+This text was added by galgopro and
